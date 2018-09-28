@@ -1,6 +1,6 @@
 {
   "name": "@infinityboy/publish-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "publish-component",
   "author": "InfinityBoy <451530398@qq.com>",
   "private": false,
@@ -13,6 +13,10 @@
     "*.json",
     "*.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infinityboy/publish-component.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
